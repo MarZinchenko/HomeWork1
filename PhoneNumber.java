@@ -1,6 +1,6 @@
-package HomeWork1;
+package homeWork1;
 
-public class phoneNumber {
+public class PhoneNumber {
     public static void main(String[] args) {
 
         String numbers = createPhoneNumber(new int[] {1, 2, 3, 4, 5, 6, 7, 8, 9, 0});

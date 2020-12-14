@@ -1,5 +1,5 @@
 //5.3 Написать в отдельном классе в отдельном main код который будет выполнять общее условие при помощи switch
-package HomeWork1;
+package homeWork1;
 
 import java.util.Scanner;
 

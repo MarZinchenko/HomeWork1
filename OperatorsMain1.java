@@ -1,4 +1,4 @@
-package HomeWork1;
+package homeWork1;
 
 public class OperatorsMain1 {
     public static void main (String[] arg){
